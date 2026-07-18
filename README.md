@@ -15,6 +15,12 @@ no nagging notifications.
 ![macOS 14+](https://img.shields.io/badge/macOS-14%2B-black)
 ![Universal](https://img.shields.io/badge/Universal-Apple%20Silicon%20%26%20Intel-black)
 
+<br>
+
+<img src="demo.gif" width="480" alt="Posture Nudge gently washing the screen with a stretch reminder" />
+
+<sub>Illustrative preview. The real flash fades over your whole screen.</sub>
+
 </div>
 
 ---
@@ -51,6 +57,14 @@ Signed and notarized by Apple, so it opens with a normal double-click. Requires 
 ## Privacy
 
 Posture Nudge collects nothing and talks to no servers except GitHub, to check for updates. Meeting detection reads a system "is the microphone active" flag — it never accesses your microphone or camera.
+
+## Feedback
+
+Found a bug or have an idea? [**Open an issue**](https://github.com/gylippus/posture-nudge-releases/issues/new) — you can also reach the same link from the app's About window.
+
+## A note on flashing
+
+The nudge is a gentle, slow fade — not a strobe. If you turn on **Reduce Motion** in macOS (System Settings → Accessibility → Display), Posture Nudge automatically softens the effect further. This is a wellness reminder, not medical advice.
 
 ---
 
