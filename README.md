@@ -10,7 +10,7 @@ Every so often, Posture Nudge briefly washes your screen with a calming color �
 a quiet cue to reset your posture, unclench, and breathe. No webcam, no account,
 no nagging notifications.
 
-[![Download](https://img.shields.io/badge/⬇%20Download-Posture%20Nudge-F5900F?style=for-the-badge)](https://github.com/gylippus/posture-nudge-releases/releases/latest/download/PostureNudge.dmg)
+[![Download](https://img.shields.io/badge/⬇%20Download-posturenudge.app-F5900F?style=for-the-badge)](https://posturenudge.app)
 
 ![macOS 14+](https://img.shields.io/badge/macOS-14%2B-black)
 ![Universal](https://img.shields.io/badge/Universal-Apple%20Silicon%20%26%20Intel-black)
@@ -27,7 +27,7 @@ no nagging notifications.
 
 ## Install
 
-1. [**Download the DMG**](https://github.com/gylippus/posture-nudge-releases/releases/latest/download/PostureNudge.dmg).
+1. **Download from [posturenudge.app](https://posturenudge.app)** (or grab the [DMG directly](https://github.com/gylippus/posture-nudge-releases/releases/latest/download/PostureNudge.dmg)).
 2. Open it and drag **Posture Nudge** into your Applications folder.
 3. Launch it. It lives in your **menu bar** (up by the clock) — there's no Dock icon or window.
 
